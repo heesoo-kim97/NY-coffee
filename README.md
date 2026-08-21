@@ -25,56 +25,74 @@ The analysis focused on identifying differences in customer demand throughout th
 
 ---
 
-## Dashboard
+## Interactive Dashboard
 
-The dashboard provides a location-level view of sales performance and customer behavior. The location slicer allows users to switch between **Astoria, Hell's Kitchen, and Lower Manhattan** while dynamically updating the underlying charts and product analysis.
+The interactive dashboard uses an **Excel location slicer** to dynamically update revenue, transaction volume, time-of-day demand, product-category performance, and top-selling products. This allows users to compare customer behavior and sales performance across **Astoria, Hell's Kitchen, and Lower Manhattan**.
 
-![NY Coffee Sales Dashboard](https://github.com/user-attachments/assets/)
+### Astoria
+
+![Astoria Coffee Sales Dashboard]()
+
+### Hell's Kitchen
+
+![Hell's Kitchen Coffee Sales Dashboard](YOUR_HELLS_KITCHEN_IMAGE_URL)
+
+### Lower Manhattan
+
+![Lower Manhattan Coffee Sales Dashboard](YOUR_LOWER_MANHATTAN_IMAGE_URL)
 
 ---
 
 ## Key Insights
 
-### 📈 Revenue Growth
+### 📈 Revenue Trends
 
-Monthly revenue generally increased across all three locations, with the strongest revenue levels occurring toward the end of the analyzed period. This indicates sustained sales growth while also providing a basis for comparing performance between locations.
+Monthly revenue increased across all three locations over the analyzed period, with revenue reaching its highest level in June. This provides a basis for comparing overall sales performance while also examining how customer demand differs by location.
 
 ### 🕐 Customer Demand Varies by Location
 
-Customer traffic showed distinct patterns across the three stores:
+Transaction patterns differed across the three stores:
 
-* **Lower Manhattan** showed stronger morning traffic followed by declining activity later in the day, reflecting a potential commuter-driven customer pattern.
-* **Astoria** maintained relatively consistent transaction volume throughout the day.
-* **Hell's Kitchen** showed continued evening activity, supporting the potential value of its extended operating hours.
+* **Astoria** maintained relatively consistent transaction volume throughout the day, with demand remaining active into the afternoon and evening.
+* **Hell's Kitchen** showed particularly strong activity during the morning and continued to generate transactions throughout the day, supporting its extended operating hours.
+* **Lower Manhattan** showed its strongest activity during the morning, followed by a noticeable decline later in the day, suggesting a stronger commuter-oriented demand pattern.
 
-These differences suggest that a standardized operating model may not be optimal across all locations.
+These differences indicate that staffing and operating-hour decisions may benefit from being tailored to each location rather than applying the same approach across all stores.
 
 ### ☕ Product Performance
 
-**Coffee and tea** were among the strongest-performing product categories across locations. Products such as **Barista Espresso** and **Brewed Chai Tea** consistently appeared among the leading products by transaction volume and revenue.
+Coffee and tea were the two strongest product categories across the locations. Individual products such as **Barista Espresso, Brewed Chai Tea, and Gourmet Brewed Coffee** consistently appeared among the top-performing products by transaction volume and revenue.
 
-This provides opportunities to align inventory, promotions, and product placement with location-specific customer preferences.
+These patterns could help inform inventory planning, product placement, and location-specific promotional strategies.
 
 ---
 
 ## Business Impact
 
-The dashboard transforms transaction-level data into an **interactive, location-specific view of business performance**, allowing management to identify trends without manually reviewing individual transactions.
+The dashboard transforms transaction-level sales data into an **interactive, location-specific reporting tool**, allowing management to evaluate store performance without manually reviewing individual transactions.
 
 The analysis could support decisions around:
 
 * **Staff scheduling** — Align staffing levels with peak transaction periods
 * **Operating hours** — Evaluate whether store hours match customer demand
 * **Inventory planning** — Prioritize high-demand products and categories
-* **Promotional strategy** — Target products based on location-specific purchasing patterns
+* **Promotional strategy** — Focus promotions around popular products and customer patterns
 * **Store performance** — Compare revenue and transaction trends across locations
 
-By combining **transactional data, interactive reporting, and business-oriented analysis**, this project demonstrates how Excel-based analytics can turn raw sales data into actionable insights for operational decision-making.
+By combining **transactional data, interactive visualization, and business analysis**, this project demonstrates how Excel can be used to transform raw sales data into actionable insights for operational decision-making.
 
 ---
 
-## Tools & Skills
+## Technologies
 
-**Tools:** Excel, PivotTables, PivotCharts, Slicers
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+![PivotTables](https://img.shields.io/badge/PivotTables-Data%20Analysis-217346?style=for-the-badge)
+![PivotCharts](https://img.shields.io/badge/PivotCharts-Data%20Visualization-217346?style=for-the-badge)
+![Slicers](https://img.shields.io/badge/Slicers-Interactive%20Filtering-217346?style=for-the-badge)
 
-**Skills:** Data Analysis · Data Visualization · Dashboard Development · Business Intelligence · Sales Analysis · Customer Behavior Analysis · Operational Analysis
+<br>
+
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+
