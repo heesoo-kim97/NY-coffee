@@ -1,5 +1,18 @@
 # ☕ NY Coffee Sales Dashboard
 
+---
+
+## 📚 Table of Contents
+
+* [Business Case](#business-case)
+* [Analytical Approach](#analytical-approach)
+* [Interactive Dashboard](#interactive-dashboard)
+* [Key Insights](#key-insights)
+* [Business Impact](#business-impact)
+* [Technologies](#technologies)
+
+---
+
 ## Business Case
 
 A coffee retailer operating locations in **Astoria, Hell's Kitchen, and Lower Manhattan** needed greater visibility into sales performance and customer demand across its stores. Transaction patterns varied by location and time of day, making it difficult to determine whether operating hours, staffing levels, and product focus aligned with actual customer behavior.
