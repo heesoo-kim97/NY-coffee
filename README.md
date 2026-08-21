@@ -2,7 +2,7 @@
 
 ---
 
-## 📚 Table of Contents
+## ⏬ Table of Contents
 
 * [Business Case](#business-case)
 * [Analytical Approach](#analytical-approach)
@@ -58,11 +58,11 @@ The interactive dashboard uses an **Excel location slicer** to dynamically updat
 
 ## Key Insights
 
-### 📈 Revenue Trends
+###  Revenue Trends
 
 Monthly revenue increased across all three locations over the analyzed period, with revenue reaching its highest level in June. This provides a basis for comparing overall sales performance while also examining how customer demand differs by location.
 
-### 🕐 Customer Demand Varies by Location
+###  Customer Demand Varies by Location
 
 Transaction patterns differed across the three stores:
 
@@ -72,7 +72,7 @@ Transaction patterns differed across the three stores:
 
 These differences indicate that staffing and operating-hour decisions may benefit from being tailored to each location rather than applying the same approach across all stores.
 
-### ☕ Product Performance
+###  Product Performance
 
 Coffee and tea were the two strongest product categories across the locations. Individual products such as **Barista Espresso, Brewed Chai Tea, and Gourmet Brewed Coffee** consistently appeared among the top-performing products by transaction volume and revenue.
 
