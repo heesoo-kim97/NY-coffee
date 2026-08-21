@@ -44,15 +44,15 @@ The interactive dashboard uses an **Excel location slicer** to dynamically updat
 
 ### Astoria
 
-![Astoria Coffee Sales Dashboard]()
+![Astoria Coffee Sales Dashboard](photo/coffee_1.png)
 
 ### Hell's Kitchen
 
-![Hell's Kitchen Coffee Sales Dashboard](YOUR_HELLS_KITCHEN_IMAGE_URL)
+![Hell's Kitchen Coffee Sales Dashboard](photo/coffee_2.png)
 
 ### Lower Manhattan
 
-![Lower Manhattan Coffee Sales Dashboard](YOUR_LOWER_MANHATTAN_IMAGE_URL)
+![Lower Manhattan Coffee Sales Dashboard](photo/coffee_3.png)
 
 ---
 
