@@ -1,3 +1,5 @@
+[<- Back to Projects](https://github.com/heesoo-kim97/portfolio-guide/blob/main/README.md)
+
 # ☕ NY Coffee Sales Dashboard
 
 ---
